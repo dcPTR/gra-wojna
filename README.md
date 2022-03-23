@@ -1,5 +1,3 @@
-# gra-wojna
-
 **Wojna – eksperyment 1:**
 
 1. Cel: 
